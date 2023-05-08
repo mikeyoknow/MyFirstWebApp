@@ -3,3 +3,4 @@ This will be my first web application and using an API to display current time a
 # What I've learned?
 - How to fetch data from an API (html)
 - How to use icons from Font packages (css)
+...
